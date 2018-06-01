@@ -3,7 +3,7 @@ class Reg extends Component {
     state = {  }
     render() {
         return (
-         <div>注册页码</div>   
+         <div>注册页码</div>
         );
     }
 }
